@@ -5,7 +5,7 @@
 
 # Fu*k DYEEG  
 
-_🐭DYEEG 哼哼小游戏_
+_🐭DYEEG 哼哼小游戏😩_
 
 </div>
 
@@ -14,12 +14,12 @@ _🐭DYEEG 哼哼小游戏_
 
 小游戏：爆超 DYEEG
 
-[原作者哔站主页](https://space.bilibili.com/316381099)     
+[原作者哔站主页](https://space.bilibili.com/316381099)
 |
-[DYEEG 哔站主页](https://space.bilibili.com/1953567845)    
+[DYEEG 哔站主页](https://space.bilibili.com/1953567845)
 |
-[原 Github 仓库](https://github.com/arcxingye/EatKano)      
+[原 Github 仓库](https://github.com/arcxingye/EatKano)
 
 ## 致敬
 
-致敬传奇耐哼王 [DYEEG](https://space.bilibili.com/1953567845)      
+致敬传奇耐哼王 [DYEEG](https://space.bilibili.com/1953567845)
