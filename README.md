@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://raw.githubusercontent.com/Tor-bilibili/Fu-kDYEEG/main/DYEEG_icon.png" width="100" height="100" alt="EatKano"></a>          
+  <a href="https://xingye.me/game/eatkano"><img src="https://raw.githubusercontent.com/Tor-bilibili/Fu-kDYEEG/main/DYEEG_icon.png" width="442" height="442" alt="EatKano"></a>                  
 </p>
-<div align="center">  
+<div align="center">    
 
-# Fu*k DYEEG  
+# Fu*k DYEEG    
 
 _🐭DYEEG 哼哼小游戏😩_
 
