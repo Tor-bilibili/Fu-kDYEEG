@@ -11,7 +11,7 @@ _🐭DYEEG's Hums Game😩_ 
 
 
 ## Introduction
-A web game: Fu*k DYEEG
+A web game: Fu*k DYEEG  
 
 [Original Author's Twitter](https://twitter.com/kano_2525)
 |
@@ -19,7 +19,7 @@ A web game: Fu*k DYEEG
 |
 [Original Github repository](https://github.com/arcxingye/EatKano)
 
-## 致敬
+## Greeting  
 
 Honoring the Legend: The King of the Most Boisterous Hums [DYEEG](https://space.bilibili.com/1953567845)
 
