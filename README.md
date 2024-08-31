@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://raw.githubusercontent.com/Tor-bilibili/Fu-kDYEEG/main/DYEEG_icon_100.png" width="100" height="100" alt="EatKano"></a>
+  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/Tor-bilibili/Fu-kDYEEG/blob/main/DYEEG_icon.png?raw=true" width="147" height="147" alt="EatKano"></a>  
 </p>    
 <div align="center">    
 
